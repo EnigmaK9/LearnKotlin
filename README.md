@@ -5,20 +5,30 @@ This repository contains the code and resources for the "Learn Kotlin Programmin
 The tutorial covers the following topics:
 
 🎯 Introduction to Kotlin programming
+
 🖥️ Variables, data types, and operators
+
 🚥 Control flow statements (if, when, and loops)
+
 🎭 Functions and lambdas
+
 🎓 Object-oriented programming in Kotlin
+
 📚 Working with collections and arrays
+
 🚨 Exception handling
+
 📂 File input and output
+
 🔍 Testing and debugging
 
 ## 📋 Requirements
 To follow along with the tutorial, you will need:
 
 🔧 The latest version of the Java Development Kit (JDK) installed on your computer
+
 💻 An Integrated Development Environment (IDE) such as IntelliJ IDEA or Android Studio
+
 🤓 Basic knowledge of programming concepts
 
 ## 🚀 Usage
