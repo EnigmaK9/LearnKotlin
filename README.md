@@ -1,10 +1,10 @@
-Repository for "Learn Kotlin Programming – Full Course for Beginners"
+#Repository for "Learn Kotlin Programming – Full Course for Beginners"
 This repository contains the code and resources for the "Learn Kotlin Programming – Full Course for Beginners" tutorial. The tutorial is designed to teach beginners the basics of Kotlin programming, including syntax, data types, control flow, functions, classes, and object-oriented programming concepts.
 
-Description
+##Description
 The tutorial covers the following topics:
 
-Introduction to Kotlin programming
+##Introduction to Kotlin programming
 Variables, data types, and operators
 Control flow statements (if, when, and loops)
 Functions and lambdas
@@ -13,13 +13,15 @@ Working with collections and arrays
 Exception handling
 File input and output
 Testing and debugging
-Requirements
+
+##Requirements
+
 To follow along with the tutorial, you will need:
 
 The latest version of the Java Development Kit (JDK) installed on your computer
 An Integrated Development Environment (IDE) such as IntelliJ IDEA or Android Studio
 Basic knowledge of programming concepts
-Usage
+##Usage
 To use the code in this repository:
 
 Clone this repository to your local machine using git clone https://github.com/<your-github-username>/kotlin-tutorial.git.
