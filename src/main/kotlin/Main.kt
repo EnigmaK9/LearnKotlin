@@ -1,3 +1,5 @@
 fun main() {
-    println("Hello, World!")
+    var name: String = "Alex"
+    val age: Int = 22
+
 }
